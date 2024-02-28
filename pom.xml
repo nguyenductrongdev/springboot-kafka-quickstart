@@ -63,7 +63,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.baeldung.spring.kafka.KafkaApplication</mainClass>
+					<mainClass>com.kafkalab.quickstart.QuickstartApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
